@@ -1,0 +1,57 @@
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html{
+    /* This rule set the font-size to 10px */
+    font-size: 62.5%;
+  }
+  :root{
+    --white:#ffffff;
+    --light_gray:#d6e2f0;
+    --grayish_blue:#7b879d;
+    --dark_blue:#1f3251;
+    --font_size: 1.5rem;
+    --font_family: 'Outfit', san-serif;
+  }
+    body{
+      font-family: var(font_family);
+      font-size: var(--font_size);
+      background-color: var(--light_gray);
+    }
+    .center-container{
+      max-width: 1200px;
+      margin: 10rem auto;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .qr-wrapper{
+      max-width: 30rem;
+      padding: 1.5rem;
+      height: auto;
+      background-color: var(--white);
+      border-radius: 1.5rem;
+      box-shadow: 0rem 0rem 10rem 0rem var(--grayish_blue);
+    }
+    figure Img{
+      width:100%;
+      border-radius: 1rem;
+      cursor: pointer;
+    }
+    h2,
+    p{
+      text-align: center;
+    }
+    h2{
+      font-weight: 700;
+      color: var(--dark_blue);
+      padding: 2rem 0;
+    }
+    p{
+      font-weight: 400;
+      color: var(--grayish_blue);
+    }
+    .attribution { font-size: 1.6rem; text-align: center; }
+    .attribution a { color: #3e52a3; }
