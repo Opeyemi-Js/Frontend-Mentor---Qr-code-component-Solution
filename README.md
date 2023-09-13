@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 - Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-design-using-flex-box-dX785p9dNW)
-- Live Site URL: [live site URL] (https://qr-code-component-12345.netlify.app/)
+- Live Site URL: [live site URL](https://qr-code-component-12345.netlify.app/)
 
 ## My process
 
