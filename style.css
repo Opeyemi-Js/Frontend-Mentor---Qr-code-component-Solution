@@ -40,11 +40,11 @@
       border-radius: 1rem;
       cursor: pointer;
     }
-    h3,
+    h2,
     p{
       text-align: center;
     }
-    h3{
+    h2{
       font-weight: 700;
       color: var(--dark_blue);
       padding: 2rem 0;
