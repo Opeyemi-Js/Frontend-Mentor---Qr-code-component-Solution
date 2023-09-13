@@ -40,14 +40,11 @@
       border-radius: 1rem;
       cursor: pointer;
     }
-    h2,
     p{
       text-align: center;
     }
     h2{
       font-weight: 700;
-      font-size: var(--font_size);
-      line-height: 1.5;
       color: var(--dark_blue);
       padding: 2rem 0;
     }
