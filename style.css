@@ -53,8 +53,5 @@
       font-weight: 400;
       color: var(--grayish_blue);
     }
-    .wrap{
-      word-wrap: wrap;
-    }
     .attribution { font-size: 1.6rem; text-align: center; }
     .attribution a { color: #3e52a3; }
