@@ -54,7 +54,7 @@
       color: var(--grayish_blue);
     }
     .wrap{
-      w
+      word-wrap: wrap;
     }
     .attribution { font-size: 1.6rem; text-align: center; }
     .attribution a { color: #3e52a3; }
