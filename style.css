@@ -47,7 +47,7 @@
     h2{
       font-weight: 700;
       color: var(--dark_blue);
-      padding: 2rem 2rem;
+      padding: 2rem 0;
     }
     p{
       font-weight: 400;
