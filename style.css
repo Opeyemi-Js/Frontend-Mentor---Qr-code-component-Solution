@@ -46,7 +46,8 @@
     }
     h2{
       font-weight: 700;
-      line-height: 1;
+      font-size: 1.;
+      line-height: 1.2;
       color: var(--dark_blue);
       padding: 2rem 0;
     }
